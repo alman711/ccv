@@ -1,2 +1,2 @@
-worker: python your_bot_file_name.py
+worker: spam_call_bot
    
